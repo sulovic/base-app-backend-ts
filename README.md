@@ -1,4 +1,4 @@
-# TypeScript backend API for Shoppy Business Apps
+# Base backend with auth functionalities and users DB
 
 Quick start
 
